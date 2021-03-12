@@ -1,0 +1,35 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: #3f51b5a2;
+}
+
+.nav{
+  margin-bottom: 30px;
+}
+
+.mylist {
+  margin: 0px 20px;
+  border-radius: 15px 15px 0 0;
+  text-align: center;
+  background-color: rgba(211, 208, 208, 0.582);
+}
+.mylist h1 {
+  padding: 17px 0;
+}
+
+.container {
+  padding: 20px 10px;
+  margin: 10px 20px;
+  margin-top: -22px;
+  border-radius: 0 0 15px 15px;
+  background-color: rgb(190, 215, 238);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.container > div{
+  margin: 10px 15px ;
+  /* border: 2px solid red; */
+}
